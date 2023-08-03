@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace modus4dplay.Pages;
+namespace yolo4dazr1.Pages;
 
 public class PrivacyModel : PageModel
 {
