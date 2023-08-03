@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using System.Runtime.InteropServices;
 
-namespace yolo4daz11.Pages;
+namespace yolo4dazr1.Pages;
 
 public class IndexModel : PageModel
 {
